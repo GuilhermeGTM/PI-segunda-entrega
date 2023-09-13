@@ -17,6 +17,3 @@ MYSQL:
     username:
     password:
 
-PHP:
-
-    xampp 8.0
